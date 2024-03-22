@@ -77,14 +77,8 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/pedroszalves">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=pedroszalves&count=5&unique=true" alt="Spotify recently played"  />
-    ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=pedroszalves)(https://open.spotify.com/user/pedroszalves)
-    ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=brpedro&count=5)
-    ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=brpedro&width=400)
-    ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=brpedro&unique={true|1|on|yes})
-  </a>
-</div>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Souzaa1/Souzaa1/output/snake.svg" alt="Snake animation" />
 
 ###
