@@ -75,8 +75,3 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Souzaa1.Souzaa1&left_color=fuchsia&right_color=black"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/Souzaa1/Souzaa1/output/snake.svg" alt="Snake animation" />
-
-###****
