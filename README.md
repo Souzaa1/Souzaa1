@@ -77,8 +77,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/Souzaa1/Souzaa1/output/snake.svg" alt="Snake animation" />
 
-###
+###****
