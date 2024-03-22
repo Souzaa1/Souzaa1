@@ -18,8 +18,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Souzaa1&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=omni&locale=en&hide_border=true&order=1" height="" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Souzaa1&locale=en&mode=daily&theme=omni&hide_border=true&border_radius=5&order=3" height="180" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Souzaa1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=omni&hide_border=true&order=2&custom_title=Languages" height="180" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Souzaa1&locale=en&mode=daily&theme=omni&hide_border=true&border_radius=5&order=3" height="" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Souzaa1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=omni&hide_border=true&order=2&custom_title=Languages" height="170" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Souzaa1&no-frame=true&margin-w=9&column=3&row=1&margin-h=3&theme=monokai&no-bg=true" height="150" alt="trophy graph"  />
 </div>
 
@@ -73,6 +73,18 @@
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Souzaa1.Souzaa1&left_color=fuchsia&right_color=black"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/pedroszalves">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=pedroszalves&count=5&unique=true" alt="Spotify recently played"  />
+    ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=pedroszalves)(https://open.spotify.com/user/pedroszalves)
+    ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=brpedro&count=5)
+    ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=brpedro&width=400)
+    ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=brpedro&unique={true|1|on|yes})
+  </a>
 </div>
 
 ###
