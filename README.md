@@ -1,23 +1,3 @@
-<div align="center">
-  <img height="150" src="https://unsplash.com/pt-br/fotografias/linhas-de-codigos-html-4hbJ-eymZ1o"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Souzaa1.Souzaa1&left_color=teal&right_color=aqua"  />
-</div>
-
-###
-
 <h1 align="center">Hey there 👋</h1>
 
 ###
@@ -34,7 +14,19 @@
 
 ###
 
-<div align="left">
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Souzaa1&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=omni&locale=en&hide_border=true&order=1" height="240" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Souzaa1&locale=en&mode=daily&theme=omni&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Souzaa1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=omni&hide_border=true&order=2&custom_title=Languages" height="220" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
@@ -62,14 +54,22 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<div align="center">
+  <a href="https://www.linkedin.com/in/pedro-alvess/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=#000000&style=flat" height="20" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/pedroszalves/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=#0000&style=flat" height="20" alt="instagram logo"  />
+  </a>
+  <a href="https://twitter.com/Pedropasaa" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=#0&style=flat" height="20" alt="twitter logo"  />
+  </a>
+</div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Souzaa1&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="240" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Souzaa1&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Souzaa1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=true&order=2&custom_title=Languages" height="220" alt="languages graph"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Souzaa1.Souzaa1&left_color=fuchsia&right_color=black"  />
 </div>
 
 ###
