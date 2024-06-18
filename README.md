@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">I'm Pedro from Ipatinga, MG - Brazil<br><br>- 🔭  Hello! I'm dev front-end developer currently studying Analysis and Systems Development. Passionate about creating engaging user experiences, I'm always seeking to enhance my skills and stay updated with the latest trends in web development. Let's connect and collaborate on innovative projects!</p>
+<p align="center">I'm Pedro from Ipatinga, MG - Brazil<br><br>- 🔭  Hello! I am a front-end developer with a degree in Systems Analysis and Development. Passionate about creating engaging user experiences, I'm always seeking to enhance my skills and stay updated with the latest trends in web development. Let's connect and collaborate on innovative projects!</p>
 
 ###
 
