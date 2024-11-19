@@ -23,7 +23,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Souzaa1&bg_color=121316&color=058182&line=058182&point=003c3d&area=true&hide_border=true&border_radius=5" width="100%" height="100%" alt="activity graph"/>  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Souzaa1&bg_color=191622&color=058182&line=058182&point=003c3d&area=true&hide_border=true&border_radius=5" width="100%" height="100%" alt="activity graph"/>  
 </div>
 
 <div align="center">
