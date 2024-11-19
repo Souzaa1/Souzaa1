@@ -23,13 +23,13 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Souzaa1&locale=en&mode=daily&theme=omni&hide_border=true&border_radius=5&order=3" height="170" width="300" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Souzaa1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=omni&hide_border=true&order=2&custom_title=Languages" width="230" height="170" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Souzaa1&no-frame=true&margin-w=9&column=3&row=1&margin-h=3&theme=monokai&no-bg=true" height="170" width="500" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Souzaa1&bg_color=121316&color=058182&line=058182&point=003c3d&area=true&hide_border=true&border_radius=5" width="100%" height="100%" alt="activity graph"/>  
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Souzaa1&bg_color=121316&color=058182&line=058182&point=003c3d&area=true&hide_border=true&border_radius=5" width="100%" height="100%" alt="activity graph"/>  
+  <img src="https://streak-stats.demolab.com?user=Souzaa1&locale=en&mode=daily&theme=omni&hide_border=true&border_radius=5&order=3" height="170" width="300" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Souzaa1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=omni&hide_border=true&order=2&custom_title=Languages" width="230" height="170" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Souzaa1&no-frame=true&margin-w=9&column=3&row=1&margin-h=3&theme=monokai&no-bg=true" height="170" width="500" alt="trophy graph"  />
 </div>
 
 ###
