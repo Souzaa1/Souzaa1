@@ -27,11 +27,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Souzaa1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=omni&hide_border=true&order=2&custom_title=Languages" width="230" height="170" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Souzaa1&no-frame=true&margin-w=9&column=3&row=1&margin-h=3&theme=monokai&no-bg=true" height="170" width="500" alt="trophy graph"  />
 </div>
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Souzaa1&bg_color=121316&color=058182&line=058182&point=003c3d&area=true&hide_border=false&border_radius=10)](https://github.com/ashutosh00710/github-readme-activity-graph" 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Souzaa1&bg_color=121316&color=058182&line=058182&point=003c3d&area=true&border_radius=5)](https://github.com/ashutosh00710/github-readme-activity-graph" 
     widht={"100%"} 
   height={"100%"}/>  
 </div>
+
 ###
 
 <h3 align="center">🛠 Language and tools</h3>
