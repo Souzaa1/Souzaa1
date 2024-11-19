@@ -1,7 +1,7 @@
 <div align="center"> 
   <img src="https://camo.githubusercontent.com/d6c684e272dfca89e599b25fdee03d847881c72f52af372ef6d577a958a8814e/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303062666266266865696768743d3132302673656374696f6e3d686561646572" height={"100%"} width={"100%"} />
 </div>
-<h1 align="center">Hey there 👋</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F7F7F7&width=435&lines=Hy+there%2C+I'm+Pedro+Alves" alt="Typing SVG" /></a>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<p align="center">I'm <strong>Pedro</strong> from Ipatinga, MG - Brazil<br><br>- 🔭  Hello! I am a front-end developer with a degree in Systems Analysis and Development. Passionate about creating engaging user experiences, I'm always seeking to enhance my skills and stay updated with the latest trends in web development. Let's connect and collaborate on innovative projects</p>
+<p align="center">I from Ipatinga, MG - Brazil<br><br>- 🔭  Hello! I am a front-end developer with a degree in Systems Analysis and Development. Passionate about creating engaging user experiences, I'm always seeking to enhance my skills and stay updated with the latest trends in web development. Let's connect and collaborate on innovative projects</p>
 
 ###
 
@@ -55,7 +55,12 @@
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Souzaa1&bg_color=121316&color=058182&line=058182&point=003c3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Souzaa1&bg_color=121316&color=058182&line=058182&point=003c3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" 
+    widht={"100%"} 
+  height={"100%"}/>  
 </div>
 
 ###
